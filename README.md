@@ -20,7 +20,7 @@
 About me:
 
 - 📫 How to reach me: [here](https://github.com/rouroumaibing/rouroumaibing/issues)
-
+- 📝 my blog: [here](https://rouroumaibing.github.io)
 
 <!--
 **rouroumaibing/rouroumaibing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
